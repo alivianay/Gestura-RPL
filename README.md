@@ -5,7 +5,7 @@ Hi, this is our project: **Real-Time ASL Translator**. The goal of this project 
 
 | Name            | NIM      |
 |-----------------|----------|
-| [Your Name]     | [Your NIM] |
+| Analicia     | 22031554007 |
 | [Contributor 2] | [NIM 2]  |
 | [Contributor 3] | [NIM 3]  |
 | [Contributor 4] | [NIM 4]  |
