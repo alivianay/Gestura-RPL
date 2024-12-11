@@ -19,4 +19,4 @@ To clone this repository to your local machine, follow these steps:
 3. Run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   https://github.com/alivianay/Gestura-RPL
