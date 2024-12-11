@@ -6,10 +6,9 @@ Hi, this is our project: **Real-Time ASL Translator**. The goal of this project 
 | Name            | NIM      |
 |-----------------|----------|
 | Analicia     | 22031554007 |
-| [Contributor 2] | [NIM 2]  |
-| [Contributor 3] | [NIM 3]  |
-| [Contributor 4] | [NIM 4]  |
-| [Contributor 5] | [NIM 5]  |
+| Vania Titanisa Indrawan | 22031554009  |
+| Alivia Nayla Wibisono | 22031554041  |
+| Nuha Salsabila Shidqiyyah | 22031554045  |
 
 ## How to Clone the Repository
 
