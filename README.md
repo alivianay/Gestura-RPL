@@ -1,7 +1,6 @@
-# Real-Time Sign Language Translator (ASL)
+# GESTURA: Real-Time Sign Language Translator
 
-Hi, this is our project: **Real-Time Sign Language Translator (ASL)**. The goal of this project is to create a system that can recognize American Sign Language (ASL) in real-time and translate it into text or speech, making communication easier for individuals who use sign language.
-
+Hi, this is our project: **Real-Time ASL Translator**. The goal of this project is to create a system that can recognize American Sign Language (ASL) in real-time and translate it into text. A Bridge of Communication for Everyone.
 ## Contributors
 
 | Name            | NIM      |
