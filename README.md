@@ -8,7 +8,7 @@ Hi, this is our project: **Real-Time ASL Translator**. The goal of this project 
 | Analicia     | 22031554007 |
 | Vania Titanisa Indrawan | 22031554009  |
 | Alivia Nayla Wibisono | 22031554041  |
-| Nuha Salsabila Shidqiyyah | 22031554045  |
+| Nuhaa Salsabila Shidqiyyah | 22031554045  |
 
 ## How to Clone the Repository
 
