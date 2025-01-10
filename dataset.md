@@ -1,4 +1,3 @@
-```markdown
 # Dataset Information
 
 This dataset is used for the **Real-Time ASL Translator** project and contains various subsets of sign language data. Please note that the dataset is **not open source** and access requires permission from the dataset owner. To request access, please email **signavatars@gmail.com**.
