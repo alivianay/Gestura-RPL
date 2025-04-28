@@ -14,14 +14,3 @@ Hi, this is our final project for the Software Engineering class: Real-Time ASL 
 ## Dataset Information
 
 Before diving into the project, it’s important to understand the dataset being used. For detailed information about the dataset, please refer to the [Dataset Documentation](dataset.md).
-
-
-## How to Clone the Repository
-To clone this repository to your local machine, follow these steps:
-
-1. Open a terminal (Command Prompt, PowerShell, or Git Bash).
-2. Navigate to the directory where you want to clone the repository.
-3. Run the following command:
-
-```bash
-git clone https://github.com/alivianay/Gestura-RPL
